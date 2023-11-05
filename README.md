@@ -1,2 +1,2 @@
-# hello-world
-this repository is created for learning purpose
+
+This is so funny :jay:
